@@ -1,1 +1,1 @@
-# Cnn traning utility
+# CNN traning utility
